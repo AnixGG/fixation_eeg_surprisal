@@ -1,0 +1,6 @@
+sentence_id,words,stored_timed_fixations,EEG_samples,EEG_columns,median_ET_step_ms,adjacent_pairs,next_stored_before_500_ms
+1,25,41,6475,105,2.0,40,37
+2,17,51,6773,105,2.0,50,49
+3,15,16,2140,105,2.0,15,15
+4,27,68,11590,105,2.0,67,58
+5,23,31,3721,105,2.0,30,30

@@ -1,0 +1,3 @@
+snapshot,manifest_files,participants,headers_expected,complete_triplets_by_size,event_files,event_rows,fixations,saccades,blinks,eye_sample_files,word_tables,word_rows,missing_files,wrong_size
+early,2411,18,252,235,248,600258,275608,275509,21644,1,36,263102,315,2
+complete_v1.0.0,2411,18,252,252,252,611355,280727,280629,22063,252,36,263102,0,0

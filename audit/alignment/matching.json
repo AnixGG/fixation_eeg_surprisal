@@ -1,0 +1,38 @@
+{
+  "time_ms": 4.0,
+  "duration_ms": 4.0,
+  "gaze_px": 2.0,
+  "clock": "constant offset per run; original feature-sequence algorithm",
+  "canonical_sentence_ranges": [
+    [
+      1,
+      50
+    ],
+    [
+      51,
+      100
+    ],
+    [
+      101,
+      151
+    ],
+    [
+      152,
+      201
+    ],
+    [
+      202,
+      251
+    ],
+    [
+      252,
+      300
+    ],
+    [
+      301,
+      349
+    ]
+  ],
+  "anchors": "first qualifying sentence in each predefined start/middle/end neighborhood; minimum6fix,3words,1s span, rival<half; calibration span>=60s; never EEG-amplitude based",
+  "new_interval_mapping": "time-containing presentation; ordinal identity checked separately; never force shifted trial IDs after missing presentations"
+}

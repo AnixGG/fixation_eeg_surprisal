@@ -1,0 +1,40 @@
+{
+  "canonical_texts": {
+    "NR_slots": 349,
+    "TSR_slots": 390,
+    "NR_unique_exact_texts": 344,
+    "TSR_unique_exact_texts": 375,
+    "shared_exact_texts": 56,
+    "total_unique_exact_texts": 663
+  },
+  "overlap": {
+    "definition": "Adjacent available word.rawET fixation onsets, within sentence; not all original fixations",
+    "timed_fixations": 207,
+    "pairs": 202,
+    "before_300_ms": 132,
+    "before_500_ms": 189,
+    "percent_before_500_ms": 93.56435643564357,
+    "median_onset_delta_ms": 244.875,
+    "minimum_onset_delta_ms": 134.0,
+    "maximum_onset_delta_ms": 1749.75
+  },
+  "window_probe": {
+    "word": "Henry",
+    "participant": "YAG",
+    "sentence_index_1based": 1,
+    "onset_clock_ms": 3063996.0,
+    "onset_row_0based": 264,
+    "window_shape": [
+      101,
+      105
+    ],
+    "anonymous_diagnostic_columns_1based": [
+      1,
+      2,
+      3
+    ],
+    "anonymous_three_column_mean_native_units": 0.23562830686569214,
+    "named_Cz_CPz_Pz_mean": null,
+    "word_eeg_matches_sentence_eeg_on_joint_finite_samples": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "participants": [
+    "YAC",
+    "YAG",
+    "YAK",
+    "YDG",
+    "YDR",
+    "YFR",
+    "YFS",
+    "YHS",
+    "YIS",
+    "YLS",
+    "YMD",
+    "YRK",
+    "YRP",
+    "YSD",
+    "YSL",
+    "YTL"
+  ],
+  "source_participants": 16,
+  "source_sentences_participant": 5584,
+  "source_words_participant": 105341,
+  "MAT_fixation_slots": 106673,
+  "status_counts": {
+    "MATCHED": 95393,
+    "INVALID": 10157,
+    "AMBIGUOUS": 728,
+    "UNMATCHED": 395
+  },
+  "matched_fixations": 95393,
+  "participants_matched": 16,
+  "clock_accepted_runs": 99,
+  "total_runs": 112,
+  "reused_prior_matches": 2166,
+  "prior_pairs_not_reused": [],
+  "cross_sentence_collisions": 0,
+  "negative_control_false_accepts": 0
+}

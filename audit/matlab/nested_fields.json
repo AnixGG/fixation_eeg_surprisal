@@ -1,0 +1,856 @@
+{
+  "representative_first_slot": {
+    "data/train/resultsYAG_NR.mat": {
+      "allFixations": {
+        "kind": "group",
+        "fields": [
+          "duration",
+          "pupilsize",
+          "x",
+          "y"
+        ],
+        "shape_h5py": null
+      },
+      "allSaccades": {
+        "kind": "group",
+        "fields": [
+          "amplitude",
+          "duration",
+          "incoming",
+          "maxVel",
+          "outgoing",
+          "within",
+          "xEnd",
+          "xStart",
+          "yEnd",
+          "yStart"
+        ],
+        "shape_h5py": null
+      },
+      "content": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          152,
+          1
+        ]
+      },
+      "mean_a1": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_a1_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_a2": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_a2_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_b1": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_b1_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_b2": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_b2_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_g1": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_g1_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_g2": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_g2_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_t1": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_t1_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_t2": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_t2_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "nFixations": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "nSaccades": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "omissionRate": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "rawData": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          6475,
+          105
+        ]
+      },
+      "rawET": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          6475,
+          2
+        ]
+      },
+      "saccMaxAmp": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "saccMaxDur": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "saccMaxVel": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "saccMeanAmp": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "saccMeanDur": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "saccMeanVel": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "word": {
+        "kind": "group",
+        "fields": [
+          "FFD",
+          "FFD_a1",
+          "FFD_a1_diff",
+          "FFD_a2",
+          "FFD_a2_diff",
+          "FFD_b1",
+          "FFD_b1_diff",
+          "FFD_b2",
+          "FFD_b2_diff",
+          "FFD_g1",
+          "FFD_g1_diff",
+          "FFD_g2",
+          "FFD_g2_diff",
+          "FFD_pupilsize",
+          "FFD_t1",
+          "FFD_t1_diff",
+          "FFD_t2",
+          "FFD_t2_diff",
+          "GD",
+          "GD_a1",
+          "GD_a1_diff",
+          "GD_a2",
+          "GD_a2_diff",
+          "GD_b1",
+          "GD_b1_diff",
+          "GD_b2",
+          "GD_b2_diff",
+          "GD_g1",
+          "GD_g1_diff",
+          "GD_g2",
+          "GD_g2_diff",
+          "GD_pupilsize",
+          "GD_t1",
+          "GD_t1_diff",
+          "GD_t2",
+          "GD_t2_diff",
+          "GPT",
+          "GPT_a1",
+          "GPT_a1_diff",
+          "GPT_a2",
+          "GPT_a2_diff",
+          "GPT_b1",
+          "GPT_b1_diff",
+          "GPT_b2",
+          "GPT_b2_diff",
+          "GPT_g1",
+          "GPT_g1_diff",
+          "GPT_g2",
+          "GPT_g2_diff",
+          "GPT_pupilsize",
+          "GPT_t1",
+          "GPT_t1_diff",
+          "GPT_t2",
+          "GPT_t2_diff",
+          "SFD",
+          "SFD_a1",
+          "SFD_a1_diff",
+          "SFD_a2",
+          "SFD_a2_diff",
+          "SFD_b1",
+          "SFD_b1_diff",
+          "SFD_b2",
+          "SFD_b2_diff",
+          "SFD_g1",
+          "SFD_g1_diff",
+          "SFD_g2",
+          "SFD_g2_diff",
+          "SFD_pupilsize",
+          "SFD_t1",
+          "SFD_t1_diff",
+          "SFD_t2",
+          "SFD_t2_diff",
+          "TRT",
+          "TRT_a1",
+          "TRT_a1_diff",
+          "TRT_a2",
+          "TRT_a2_diff",
+          "TRT_b1",
+          "TRT_b1_diff",
+          "TRT_b2",
+          "TRT_b2_diff",
+          "TRT_g1",
+          "TRT_g1_diff",
+          "TRT_g2",
+          "TRT_g2_diff",
+          "TRT_pupilsize",
+          "TRT_t1",
+          "TRT_t1_diff",
+          "TRT_t2",
+          "TRT_t2_diff",
+          "content",
+          "fixPositions",
+          "inSacc_amp",
+          "inSacc_duration",
+          "inSacc_velocity",
+          "meanPupilSize",
+          "nFixations",
+          "outSacc_amp",
+          "outSacc_duration",
+          "outSacc_velocity",
+          "rawEEG",
+          "rawET",
+          "withinSacc_amp",
+          "withinSacc_duration",
+          "withinSacc_velocity"
+        ],
+        "shape_h5py": null
+      },
+      "wordbounds": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          4,
+          25
+        ]
+      }
+    },
+    "data/test/resultsXAH.mat": {
+      "allFixations": {
+        "kind": "group",
+        "fields": [
+          "duration",
+          "pupilsize",
+          "x",
+          "y"
+        ],
+        "shape_h5py": null
+      },
+      "allSaccades": {
+        "kind": "group",
+        "fields": [
+          "amplitude",
+          "duration",
+          "incoming",
+          "maxVel",
+          "outgoing",
+          "within",
+          "xEnd",
+          "xStart",
+          "yEnd",
+          "yStart"
+        ],
+        "shape_h5py": null
+      },
+      "mean_a1": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_a1_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_a2": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_a2_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_b1": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_b1_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_b2": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_b2_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_g1": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_g1_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_g2": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_g2_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_t1": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_t1_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "mean_t2": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          105,
+          1
+        ]
+      },
+      "mean_t2_diff": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          48,
+          1
+        ]
+      },
+      "nFixations": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "nSaccades": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "omissionRate": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "rawData": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          4309,
+          105
+        ]
+      },
+      "rawET": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          4309,
+          2
+        ]
+      },
+      "saccMaxAmp": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "saccMaxDur": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "saccMaxVel": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "saccMeanAmp": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "saccMeanDur": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "saccMeanVel": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "sentID": {
+        "kind": "dataset",
+        "fields": null,
+        "shape_h5py": [
+          1,
+          1
+        ]
+      },
+      "word": {
+        "kind": "group",
+        "fields": [
+          "FFD",
+          "FFD_a1",
+          "FFD_a1_diff",
+          "FFD_a2",
+          "FFD_a2_diff",
+          "FFD_b1",
+          "FFD_b1_diff",
+          "FFD_b2",
+          "FFD_b2_diff",
+          "FFD_g1",
+          "FFD_g1_diff",
+          "FFD_g2",
+          "FFD_g2_diff",
+          "FFD_pupilsize",
+          "FFD_t1",
+          "FFD_t1_diff",
+          "FFD_t2",
+          "FFD_t2_diff",
+          "GD",
+          "GD_a1",
+          "GD_a1_diff",
+          "GD_a2",
+          "GD_a2_diff",
+          "GD_b1",
+          "GD_b1_diff",
+          "GD_b2",
+          "GD_b2_diff",
+          "GD_g1",
+          "GD_g1_diff",
+          "GD_g2",
+          "GD_g2_diff",
+          "GD_pupilsize",
+          "GD_t1",
+          "GD_t1_diff",
+          "GD_t2",
+          "GD_t2_diff",
+          "GPT",
+          "GPT_a1",
+          "GPT_a1_diff",
+          "GPT_a2",
+          "GPT_a2_diff",
+          "GPT_b1",
+          "GPT_b1_diff",
+          "GPT_b2",
+          "GPT_b2_diff",
+          "GPT_g1",
+          "GPT_g1_diff",
+          "GPT_g2",
+          "GPT_g2_diff",
+          "GPT_pupilsize",
+          "GPT_t1",
+          "GPT_t1_diff",
+          "GPT_t2",
+          "GPT_t2_diff",
+          "SFD",
+          "SFD_a1",
+          "SFD_a1_diff",
+          "SFD_a2",
+          "SFD_a2_diff",
+          "SFD_b1",
+          "SFD_b1_diff",
+          "SFD_b2",
+          "SFD_b2_diff",
+          "SFD_g1",
+          "SFD_g1_diff",
+          "SFD_g2",
+          "SFD_g2_diff",
+          "SFD_pupilsize",
+          "SFD_t1",
+          "SFD_t1_diff",
+          "SFD_t2",
+          "SFD_t2_diff",
+          "TRT",
+          "TRT_a1",
+          "TRT_a1_diff",
+          "TRT_a2",
+          "TRT_a2_diff",
+          "TRT_b1",
+          "TRT_b1_diff",
+          "TRT_b2",
+          "TRT_b2_diff",
+          "TRT_g1",
+          "TRT_g1_diff",
+          "TRT_g2",
+          "TRT_g2_diff",
+          "TRT_pupilsize",
+          "TRT_t1",
+          "TRT_t1_diff",
+          "TRT_t2",
+          "TRT_t2_diff",
+          "fixPositions",
+          "inSacc_amp",
+          "inSacc_duration",
+          "inSacc_velocity",
+          "meanPupilSize",
+          "nFixations",
+          "outSacc_amp",
+          "outSacc_duration",
+          "outSacc_velocity",
+          "rawEEG",
+          "rawET",
+          "withinSacc_amp",
+          "withinSacc_duration",
+          "withinSacc_velocity"
+        ],
+        "shape_h5py": null
+      }
+    }
+  },
+  "sentence_field_profiles": [
+    {
+      "files": [
+        "data/test/resultsXAH.mat",
+        "data/test/resultsXBB.mat",
+        "data/test/resultsXBD.mat",
+        "data/test/resultsXDT.mat",
+        "data/test/resultsXLS.mat",
+        "data/test/resultsXPB.mat",
+        "data/test/resultsXSE.mat",
+        "data/test/resultsXSS.mat",
+        "data/test/resultsXTR.mat",
+        "data/test/resultsXWS.mat"
+      ],
+      "fields": [
+        "allFixations",
+        "allSaccades",
+        "mean_a1",
+        "mean_a1_diff",
+        "mean_a2",
+        "mean_a2_diff",
+        "mean_b1",
+        "mean_b1_diff",
+        "mean_b2",
+        "mean_b2_diff",
+        "mean_g1",
+        "mean_g1_diff",
+        "mean_g2",
+        "mean_g2_diff",
+        "mean_t1",
+        "mean_t1_diff",
+        "mean_t2",
+        "mean_t2_diff",
+        "nFixations",
+        "nSaccades",
+        "omissionRate",
+        "rawData",
+        "rawET",
+        "saccMaxAmp",
+        "saccMaxDur",
+        "saccMaxVel",
+        "saccMeanAmp",
+        "saccMeanDur",
+        "saccMeanVel",
+        "sentID",
+        "word"
+      ]
+    },
+    {
+      "files": [
+        "data/train/resultsYAC_NR.mat",
+        "data/train/resultsYAC_TSR.mat",
+        "data/train/resultsYAG_NR.mat",
+        "data/train/resultsYAG_TSR.mat",
+        "data/train/resultsYAK_NR.mat",
+        "data/train/resultsYAK_TSR.mat",
+        "data/train/resultsYDG_NR.mat",
+        "data/train/resultsYDG_TSR.mat",
+        "data/train/resultsYDR_NR.mat",
+        "data/train/resultsYDR_TSR.mat",
+        "data/train/resultsYFR_NR.mat",
+        "data/train/resultsYFR_TSR.mat",
+        "data/train/resultsYFS_NR.mat",
+        "data/train/resultsYFS_TSR.mat",
+        "data/train/resultsYHS_NR.mat",
+        "data/train/resultsYHS_TSR.mat",
+        "data/train/resultsYIS_NR.mat",
+        "data/train/resultsYIS_TSR.mat",
+        "data/train/resultsYLS_NR.mat",
+        "data/train/resultsYLS_TSR.mat",
+        "data/train/resultsYMD_NR.mat",
+        "data/train/resultsYMD_TSR.mat",
+        "data/train/resultsYRK_NR.mat",
+        "data/train/resultsYRK_TSR.mat",
+        "data/train/resultsYRP_NR.mat",
+        "data/train/resultsYRP_TSR.mat",
+        "data/train/resultsYSD_NR.mat",
+        "data/train/resultsYSD_TSR.mat",
+        "data/train/resultsYSL_NR.mat",
+        "data/train/resultsYSL_TSR.mat",
+        "data/train/resultsYTL_NR.mat",
+        "data/train/resultsYTL_TSR.mat"
+      ],
+      "fields": [
+        "allFixations",
+        "allSaccades",
+        "content",
+        "mean_a1",
+        "mean_a1_diff",
+        "mean_a2",
+        "mean_a2_diff",
+        "mean_b1",
+        "mean_b1_diff",
+        "mean_b2",
+        "mean_b2_diff",
+        "mean_g1",
+        "mean_g1_diff",
+        "mean_g2",
+        "mean_g2_diff",
+        "mean_t1",
+        "mean_t1_diff",
+        "mean_t2",
+        "mean_t2_diff",
+        "nFixations",
+        "nSaccades",
+        "omissionRate",
+        "rawData",
+        "rawET",
+        "saccMaxAmp",
+        "saccMaxDur",
+        "saccMaxVel",
+        "saccMeanAmp",
+        "saccMeanDur",
+        "saccMeanVel",
+        "word",
+        "wordbounds"
+      ]
+    }
+  ]
+}

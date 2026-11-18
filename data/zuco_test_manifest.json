@@ -1,0 +1,17 @@
+{
+  "source": "https://osf.io/d7frw/",
+  "metadata_source": "https://files.osf.io/v1/resources/d7frw/providers/dropbox/?meta=",
+  "retrieved": "2026-10-15",
+  "files": [
+    {"name": "resultsXAH.mat", "size": 3501415484, "dropbox_hash": "ed2bd1933eddc185de0f9a9a502baedd8689ecf83acdc6be8e6acea89c69b719"},
+    {"name": "resultsXBB.mat", "size": 3948915659, "dropbox_hash": "9863883979fcdc6efefb84b3d1d89f3f9771f6495addfc211cae53489b41a24e"},
+    {"name": "resultsXBD.mat", "size": 4333992296, "dropbox_hash": "f3629a3360d0cd18cf3a344d684d15f6fd4ee7def8429e1b09cbd17696d91191"},
+    {"name": "resultsXDT.mat", "size": 3345212131, "dropbox_hash": "c897befb24dbfc1871b15276aed5f44556f29ea00814925b41799ec71e2d7dac"},
+    {"name": "resultsXLS.mat", "size": 4457657147, "dropbox_hash": "e7e428c85c288e2fc04f8a78886ab5efd7359bada6e7f81bc5e1ae997e71e4a0"},
+    {"name": "resultsXPB.mat", "size": 2644702918, "dropbox_hash": "eb22e88aac5c5415caea1472553f65b5a226e95e5ddf45c607282a65690d1c64"},
+    {"name": "resultsXSE.mat", "size": 3066488664, "dropbox_hash": "4cd2252aa588c129aa5ffaf9f54688e8c4c0ed882912c49f0d4b5a8e90d5eca5"},
+    {"name": "resultsXSS.mat", "size": 4226404873, "dropbox_hash": "5f687bcb8e3c68243395f8bd6d09770f498ed80eafe73e592715288aaf043813"},
+    {"name": "resultsXTR.mat", "size": 5241156979, "dropbox_hash": "289b1b57531b70dd197f6cbbbd12674ef095d983dfa37e63f4ae62f7cd0fecc4"},
+    {"name": "resultsXWS.mat", "size": 2553614961, "dropbox_hash": "3bc93ea62fbfdea9312afe0b4109dfdd6f4be6d8c63fe27d9c3661c3d900339c"}
+  ]
+}
